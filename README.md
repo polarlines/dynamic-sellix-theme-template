@@ -18,7 +18,6 @@ To purchase, please visit: [https://builtbybit.com/resources/dynamic-template-fo
 
 
 
-
 Demo: [https://youtu.be/B-DsygLMYtk](https://youtu.be/B-DsygLMYtk) \
 Setup Guide: [https://youtu.be/kXVOEz6vfP4](https://youtu.be/kXVOEz6vfP4)
 ## Introduction
